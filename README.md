@@ -2,7 +2,7 @@
 
 ## Hi, I'm Masudur 👋
 
-I'm a software engineer in Dhaka with **4 years of experience** building ERP and financial applications on Oracle Database. Most of my work is loan management, accounting, fund management and result processing, where accurate business logic and good performance matter.
+I'm a software engineer in Dhaka with **4+ years of experience** building ERP and financial applications on Oracle Database. Most of my work is loan management, accounting, fund management and result processing, where accurate business logic and good performance matter.
 
 I'm **Oracle APEX Cloud Developer Certified (2025)** and currently work at ERA InfoTech Ltd. on enterprise ERP and NBFI systems. You can find me on [LinkedIn](https://linkedin.com/in/abir3070) or at [abir3070@gmail.com](mailto:abir3070@gmail.com).
 
