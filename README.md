@@ -1,8 +1,8 @@
-<img src="[[https://capsule-render.vercel.app/api?](https://media.licdn.com/dms/image/v2/D5616AQHUsdrDerTL5w/profile-displaybackgroundimage-shrink_350_1400/B56ZkYbMuiHQAg-/0/1757051407821?e=1793232000&v=beta&t=s--MhpAWp0aF5qQZmcEaqz_nsicoEhGie2fbAW_tO1U) ](https://media.licdn.com/dms/image/v2/D5616AQHUsdrDerTL5w/profile-displaybackgroundimage-shrink_350_1400/B56ZkYbMuiHQAg-/0/1757051407821?e=1793232000&v=beta&t=s--MhpAWp0aF5qQZmcEaqz_nsicoEhGie2fbAW_tO1U) type=waving&color=0:1F4E5F,100:2E7D8C&height=160&section=header&text=Md.%20Masudur%20Rahman&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Oracle%20APEX%20%26%20PL%2FSQL%20Developer&descSize=18&descAlignY=62" alt="Md. Masudur Rahman" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHUsdrDerTL5w/profile-displaybackgroundimage-shrink_350_1400/B56ZkYbMuiHQAg-/0/1757051407821?e=1793232000&v=beta&t=s--MhpAWp0aF5qQZmcEaqz_nsicoEhGie2fbAW_tO1U" alt="Md. Masudur Rahman" width="100%"/>
 
 ## Hi, I'm Masudur 👋
 
-I'm a software engineer in Dhaka with **4+ years of experience** building ERP and financial applications on Oracle Database. Most of my work is loan management, accounting, fund management and result processing, where accurate business logic and good performance matter.
+I'm a software engineer in Dhaka with **4 years of experience** building ERP and financial applications on Oracle Database. Most of my work is loan management, accounting, fund management and result processing, where accurate business logic and good performance matter.
 
 I'm **Oracle APEX Cloud Developer Certified (2025)** and currently work at ERA InfoTech Ltd. on enterprise ERP and NBFI systems. You can find me on [LinkedIn](https://linkedin.com/in/abir3070) or at [abir3070@gmail.com](mailto:abir3070@gmail.com).
 
@@ -32,7 +32,7 @@ Most of this is client and company work, so the code isn't public. I'm building 
 
 - Building enterprise ERP and NBFI applications with Oracle APEX and PL/SQL
 - Getting more comfortable with Git and publishing sample repos on this profile
-<!-- - Learning more about REST/SOAP integration and AI-assisted development -->
+- Learning more about REST/SOAP integration and AI-assisted development
 
 <!--
 Optional: uncomment once your profile has public activity.
