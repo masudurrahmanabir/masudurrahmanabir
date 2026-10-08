@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer with 4 years of experience** building enterprise applications on Oracle Database. My work centers on **ERP and financial systems** — loan management, accounting, fund management, and result processing — where accuracy, performance, and clean business logic matter most.
+I'm a **Software Engineer with 4+ years of experience** building enterprise applications on Oracle Database. My work centers on **ERP and financial systems** — loan management, accounting, fund management, and result processing — where accuracy, performance, and clean business logic matter most.
 
 I enjoy turning complex business requirements into reliable, database-driven applications.
 
