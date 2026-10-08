@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHUsdrDerTL5w/profile-displaybackgroundimage-shrink_350_1400/B56ZkYbMuiHQAg-/0/1757051407821?e=1793232000&v=beta&t=s--MhpAWp0aF5qQZmcEaqz_nsicoEhGie2fbAW_tO1U" alt="Md. Masudur Rahman" width="100%"/>
 
-## Hi, I'm Masudur 👋
+## Hi, I'm Masudur Rahman 👋
 
 I'm a software engineer in Dhaka with **4 years of experience** building ERP and financial applications on Oracle Database. Most of my work is loan management, accounting, fund management and result processing, where accurate business logic and good performance matter.
 
