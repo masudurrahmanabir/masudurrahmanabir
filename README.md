@@ -35,21 +35,27 @@ I enjoy turning complex business requirements into reliable, database-driven app
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abir3070)
+
+<br/>
+
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
-<img src="https://img.shields.io/badge/Oracle_APEX-1F4E5F?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX"/>
-<img src="https://img.shields.io/badge/SQL_%26_PL%2FSQL-2E7D8C?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL and PL/SQL"/>
-<img src="https://img.shields.io/badge/Oracle_Forms_%26_Reports-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Forms and Reports"/>
-<br/>
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-1F4E5F?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL and PL/SQL](https://img.shields.io/badge/SQL_%26_PL%2FSQL-2E7D8C?style=for-the-badge&logo=databricks&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 </div>
 
@@ -131,13 +137,44 @@ Room booking, guest management, food orders, billing, and automated **email conf
 
 <br/>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E7D8C&icon_color=2E7D8C&text_color=C9D1D9" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E7D8C&text_color=C9D1D9" alt="Top languages"/>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=masudurrahmanabir&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=masudurrahmanabir&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=masudurrahmanabir&theme=default_repocard&hide_border=false)
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=masudurrahmanabir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+<br/>
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=masudurrahmanabir&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+<br/>
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -152,6 +189,12 @@ I'm open to opportunities in **Oracle APEX, PL/SQL, and ERP application developm
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abir3070)
 [![Email](https://img.shields.io/badge/Send_an_Email-1F4E5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abir3070@gmail.com)
 
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=masudurrahmanabir&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D8C,100:1F4E5F&height=100&section=footer" width="100%" alt="footer"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
