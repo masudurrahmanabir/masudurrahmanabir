@@ -32,7 +32,7 @@ Most of this is client and company work, so the code isn't public. I'm building 
 
 - Building enterprise ERP and NBFI applications with Oracle APEX and PL/SQL
 - Getting more comfortable with Git and publishing sample repos on this profile
-- Learning more about REST/SOAP integration and AI-assisted development
+<!-- - Learning more about REST/SOAP integration and AI-assisted development -->
 
 <!--
 Optional: uncomment once your profile has public activity.
