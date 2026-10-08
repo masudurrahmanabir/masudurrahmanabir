@@ -2,9 +2,9 @@
 
 ## Hi, I'm Masudur Rahman 👋
 
-I'm a software engineer in Dhaka with **4 years of experience** building ERP and financial applications on Oracle Database. Most of my work is loan management, accounting, fund management and result processing, where accurate business logic and good performance matter.
+I build the software that runs the money side of a business: loans, accounts, funds and payments. Over **4+ years** I've designed and shipped ERP and NBFI applications on Oracle Database, where one wrong calculation shows up on a customer's statement.
 
-I'm **Oracle APEX Cloud Developer Certified (2025)** and currently work at ERA InfoTech Ltd. on enterprise ERP and NBFI systems. You can find me on [LinkedIn](https://linkedin.com/in/abir3070) or at [abir3070@gmail.com](mailto:abir3070@gmail.com).
+I'm an **Oracle APEX Cloud Developer Certified Professional (2025)** and a Software Engineer at ERA InfoTech Ltd. in Dhaka. If you'd like to talk Oracle, ERP or finance systems, reach me on [LinkedIn](https://linkedin.com/in/abir3070) or at [abir3070@gmail.com](mailto:abir3070@gmail.com).
 
 ## 🔧 Tech I Work With
 
@@ -21,18 +21,18 @@ I'm **Oracle APEX Cloud Developer Certified (2025)** and currently work at ERA I
 
 ## 🚀 What I've Built
 
-- **Loan schedule engine (NBFI):** repayment schedules using PMT, PPMT and IPMT, with automated amortization for different loan products
-- **Factory management ERP:** accounts, employee, purchase, payment, stock, sales, loan, and income & expenses modules
-- **University result processing:** end-to-end result publication for Fazil Pass, Fazil Honors and Kamil programs, built on Oracle APEX and PL/SQL
-- **Hotel management system:** room booking, guest management, food orders, billing and email confirmations
+- **Loan schedule engine (NBFI):** generates repayment and amortization schedules with PMT, PPMT and IPMT, so principal, interest and installments are calculated automatically for each loan product
+- **Factory management ERP:** one platform covering accounts, employees, purchase, payment, stock, sales, loans, and income & expenses
+- **University result processing:** publishes results for Fazil Pass, Fazil Honors and Kamil programs, built on Oracle APEX and PL/SQL
+- **Hotel management system:** handles room booking, guests, food orders, billing and email confirmations in one place
 
-Most of this is client and company work, so the code isn't public. I'm building small sample projects here that don't use any company data.
+These are client and company projects, so the source isn't public. I'm building small sample projects here, using dummy data only, to show how I work.
 
 ## 🌱 Right Now
 
 - Building enterprise ERP and NBFI applications with Oracle APEX and PL/SQL
-- Getting more comfortable with Git and publishing sample repos on this profile
-- Learning more about REST/SOAP integration and AI-assisted development
+- Building my Git habits and publishing sample repos on this profile
+- Learning REST/SOAP integration and AI-assisted development
 
 <!--
 Optional: uncomment once your profile has public activity.
