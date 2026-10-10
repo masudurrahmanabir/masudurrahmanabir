@@ -28,13 +28,12 @@ Oracle APEX Developer with **4+ years of experience** in Oracle APEX, SQL, PL/SQ
 **Database & Backend**
 
 ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQL & PL/SQL](https://img.shields.io/badge/SQL_%26_PL%2FSQL-336791?style=flat-square&logo=databricks&logoColor=white)
 ![Oracle Forms & Reports](https://img.shields.io/badge/Forms_%26_Reports-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Frontend & Tools**
-
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
