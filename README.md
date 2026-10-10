@@ -1,5 +1,5 @@
 <!-- Tip: upload your banner image to this repo (e.g. assets/banner.jpg) and use that path below, because the LinkedIn URL expires. -->
-<img src="assets/banner.jpg" alt="Md. Masudur Rahman" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHUsdrDerTL5w/profile-displaybackgroundimage-shrink_350_1400/B56ZkYbMuiHQAg-/0/1757051407821?e=1793232000&v=beta&t=s--MhpAWp0aF5qQZmcEaqz_nsicoEhGie2fbAW_tO1U" alt="Md. Masudur Rahman" width="100%"/>
 
 <h1 align="center">Hi, I'm Masudur Rahman 👋</h1>
 
